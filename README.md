@@ -1,4 +1,4 @@
-# pokedex-2023
+# @commerce React-Redux
 Discover the latest in e-commerce technology !
 
 ## Description
