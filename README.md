@@ -11,13 +11,13 @@ Discover the latest in e-commerce technology with www.ecomerce-react.com. Built 
 
 -	[https://www.linkedin.com/in/napoleon-de-jesus-anaya-romero-8872ba127/](https://www.linkedin.com/in/napoleon-de-jesus-anaya-romero-8872ba127/)
 
--	[https://pokedex-2023.netlify.app/](https://pokedex-2023.netlify.app/)
+-	[https://ecommerce-react-2023.netlify.app/](https://ecommerce-react-2023.netlify.app/)
 
 -	[https://github.com/alucart2005/ecommerce-react](https://github.com/alucart2005/ecommerce-react)
 
 ## See live example
 
-- [https://pokedex-2023.netlify.app/](https://pokedex-2023.netlify.app/)
+- [https://ecommerce-react-2023.netlify.app/](https://ecommerce-react-2023.netlify.app/)
  
 ![..](https://raw.githubusercontent.com/alucart2005/ecommerce-react/Ecommerce-React-2023-Ver1/public/Capture%20%40commerce%20React.png)
 
