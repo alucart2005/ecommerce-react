@@ -1,12 +1,9 @@
 # pokedex-2023
-Explore the world of Pokemons like never before!!!
+Discover the latest in e-commerce technology !
 
 ## Description
 
-Our website created with React Router and Redux allows you to search for your favorite Pokemons using various criteria such as type, name, and more. Discover detailed information and statistics of each Pokemon, along with stunning images. Don't miss the opportunity to get to know your favorite Pokemons better! 
-
-The endpoint used is this:
-https://pokeapi.co/docs/v2.
+Discover the latest in e-commerce technology with www.ecomerce-react.com. Built with React, Redux, and Bootstrap, our platform offers a seamless and professional shopping experience. Login using the credentials napoleon@gmail.com and 123456 to explore a wide range of products, add them to your cart and purchase with ease. Filter and view products with ease, making your shopping experience smooth and efficient. 
 
 ## Author ✍
 
@@ -16,13 +13,13 @@ https://pokeapi.co/docs/v2.
 
 -	[https://pokedex-2023.netlify.app/](https://pokedex-2023.netlify.app/)
 
--	[https://github.com/alucart2005/pokedex-2023](https://github.com/alucart2005/pokedex-2023)
+-	[https://github.com/alucart2005/ecommerce-react](https://github.com/alucart2005/ecommerce-react)
 
 ## See live example
 
 - [https://pokedex-2023.netlify.app/](https://pokedex-2023.netlify.app/)
  
-![..](https://raw.githubusercontent.com/alucart2005/pokedex-2023/Pokedex-Ver2/public/Capture-Pokedex.jpg)
+![..](https://raw.githubusercontent.com/alucart2005/ecommerce-react/Ecommerce-React-2023-Ver1/public/Capture%20%40commerce%20React.png)
 
 
 ## To install
