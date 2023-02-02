@@ -1,5 +1,5 @@
 # pokedex-2023
-Explore the world of Pokemons like never before! 
+Explore the world of Pokemons like never before!! 
 
 ## Description
 
