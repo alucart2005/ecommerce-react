@@ -24,7 +24,7 @@ Discover the latest in e-commerce technology with [https://ecommerce-react-2023.
 
 ## To install
 
-This project needs installation of node modules. Just run npm i in the folder containing the cloned file, or, npm install.
+To get started with this project, simply run npm i or npm install in the folder containing the cloned repository to install all required node modules.
 
 ## Hiring 
 If you want to hire me you can write to napoleonanaya@gmail.com
