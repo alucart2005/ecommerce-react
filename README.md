@@ -1,5 +1,5 @@
 # @commerce React-Redux
-Discover the latest in e-commerce technology !
+Discover the latest in e-commerce technology.
 
 ## Description
 
